@@ -1,2 +1,2 @@
 # ReactSW
-A minimal React application application using webpack and implementing serviceworkers for caching.
+A minimal React application using webpack and implementing serviceworkers for caching.
